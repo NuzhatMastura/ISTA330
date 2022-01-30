@@ -18,3 +18,4 @@ var runningSum = function(input) {
 };
 let test1 = runningSum ([5,6,1]);
 console.log(test1);
+
